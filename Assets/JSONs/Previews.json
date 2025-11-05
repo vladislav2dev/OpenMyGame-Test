@@ -1,0 +1,44 @@
+﻿{
+  "previews": [
+    {
+      "id": 0,
+      "img": "Sprite/Previews/1.png",
+      "price": 0
+    },
+    {
+      "id": 1,
+      "img": "Sprite/Previews/2.png",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "img": "Sprite/Previews/1.png",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "img": "Sprite/Previews/2.png",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "img": "Sprite/Previews/3.png",
+      "price": 0
+    },
+    {
+      "id": 5,
+      "img": "Sprite/Previews/4.png",
+      "price": 0
+    },
+    {
+      "id": 6,
+      "img": "Sprite/Previews/3.png",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "img": "Sprite/Previews/4.png",
+      "price": 100
+    }
+  ]
+}

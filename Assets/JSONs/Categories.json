@@ -1,0 +1,40 @@
+﻿{
+  "categories": [
+    {
+      "id": 0,
+      "name": "All",
+      "img": "Sprite/Categories/1.png",
+      "previews": []
+    },
+    {
+      "id": 1,
+      "name": "Category 1",
+      "img": "Sprite/Categories/2.png",
+      "previews": [1,2,3,4]
+    },
+    {
+      "id": 2,
+      "name": "Category 2",
+      "img": "Sprite/Categories/3.png",
+      "previews": [0,2,4,6]
+    },
+    {
+      "id": 3,
+      "name": "Category 3",
+      "img": "Sprite/Categories/1.png",
+      "previews": [1,3,5,7]
+    },
+    {
+      "id": 4,
+      "name": "Category 4",
+      "img": "Sprite/Categories/2.png",
+      "previews": [1,6]
+    },
+    {
+      "id": 5,
+      "name": "Category 5",
+      "img": "Sprite/Categories/3.png",
+      "previews": [0,3,7]
+    }
+  ]
+}
