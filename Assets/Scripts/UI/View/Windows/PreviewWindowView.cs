@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 namespace UI.View.Windows
 {
-    public class PreviewWindowView : global::UI.View.View
+    public class PreviewWindowView : WindowView
     {
         [field:SerializeField] public Button CloseButton { get; private set; }
         [field:SerializeField] public TextMeshProUGUI Title { get; private set; }

@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 namespace UI.View.Windows
 {
-    public class DialogWindowView : global::UI.View.View
+    public class DialogWindowView : WindowView
     {
         [field:SerializeField] public TextMeshProUGUI Title { get; private set; }
         [field:SerializeField] public TextMeshProUGUI Description { get; private set; }

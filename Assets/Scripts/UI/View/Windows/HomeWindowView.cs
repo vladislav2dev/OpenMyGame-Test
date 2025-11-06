@@ -3,7 +3,7 @@ using UnityEngine.UI;
 
 namespace UI.View.Windows
 {
-    public class HomeWindowView : global::UI.View.View
+    public class HomeWindowView : WindowView
     {
         [field:SerializeField] public ScrollRect CategoriesScroll { get; private set; }
         [field:SerializeField] public ScrollRect PreviewsScroll { get; private set; }
